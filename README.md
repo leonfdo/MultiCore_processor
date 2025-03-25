@@ -26,7 +26,6 @@ This project focuses on the design, implementation, and testing of a multi-core 
 ## Getting Started
 To work with this project, ensure you have the following dependencies installed:
 - Chisel toolchain
-- Bluespec toolchain
 - RISC-V toolchain
 - Verilator for simulation
 
