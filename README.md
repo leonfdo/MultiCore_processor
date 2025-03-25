@@ -20,7 +20,6 @@ This project focuses on the design, implementation, and testing of a multi-core 
 
 ## Technologies Used
 - **Chisel** for hardware description
-- **Bluespec System Verilog**
 - **AXI Protocol** for interconnect
 - **RISC-V Out-of-Order Processor Architecture**
 
